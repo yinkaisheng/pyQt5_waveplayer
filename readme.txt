@@ -1,1 +1,0 @@
-A simple wave player using pyQt5 and Windows Wave API, contains caculating wave's db and audio excitation.
